@@ -1,8 +1,9 @@
 body {
   width: 60%;
+  max-height: 80%;
   min-width: 800px;
   margin: 0 auto;
-  background: #1a1b21;
+  /* background: #23252c; */
 
   padding: 20px 200px;
 }
